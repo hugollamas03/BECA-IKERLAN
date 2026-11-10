@@ -21,8 +21,10 @@ que incluye paquetes utilizados como: pandas numpy matplotlib openpyxl pyarrow p
 
 Comandos:
 
+```
 python -m venv .venv
 pip install -r requirements.txt
+```
 
 ## Scripts
 
